@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_4pEwkDlpEe-Vh8w5bHQORw" id="_4pEJgDlpEe-Vh8w5bHQORw" label="map_patient_sejour" version="0.1" statusCode="" item="_4pEwkjlpEe-Vh8w5bHQORw" displayName="map_patient_sejour">
+    <author href="../talend.project#_E0FMUTlTEe-Vh8w5bHQORw"/>
+    <additionalProperties xmi:id="_4pFXoDlpEe-Vh8w5bHQORw" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_4pFXoTlpEe-Vh8w5bHQORw" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_4pFXojlpEe-Vh8w5bHQORw" key="created_date" value="2024-07-03T20:27:20.730+0200"/>
+    <additionalProperties xmi:id="_4pFXozlpEe-Vh8w5bHQORw" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_4pFXpDlpEe-Vh8w5bHQORw" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_4pFXpTlpEe-Vh8w5bHQORw" key="modified_date" value="2024-07-04T21:22:56.464+0200"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_4pEwkTlpEe-Vh8w5bHQORw" path=""/>
+  <TalendProperties:ProcessItem xmi:id="_4pEwkjlpEe-Vh8w5bHQORw" property="_4pEwkDlpEe-Vh8w5bHQORw" state="_4pEwkTlpEe-Vh8w5bHQORw">
+    <process href="map_patient_sejour_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_MInScDlqEe-Vh8w5bHQORw" name="sejour.csv" dataPackage="_MInScTlqEe-Vh8w5bHQORw" Server="Localhost 127.0.0.1" FilePath="/Users/almassati/Desktop/avave/sejour.csv" Encoding="US-ASCII" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_MInScTlqEe-Vh8w5bHQORw" name="default" dataManager="_MInScDlqEe-Vh8w5bHQORw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_MInScjlqEe-Vh8w5bHQORw" id="_HK73gDlqEe-Vh8w5bHQORw" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MInSczlqEe-Vh8w5bHQORw" label="id_sejour" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MInSdDlqEe-Vh8w5bHQORw" label="id_patient" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MInSdTlqEe-Vh8w5bHQORw" label="date_debut_sejour" length="-1" talendType="id_Date" pattern="&quot;yyyyMMdd&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MInSdjlqEe-Vh8w5bHQORw" label="date_fin_sejour" length="-1" talendType="id_Date" pattern="&quot;yyyyMMdd&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MInSdzlqEe-Vh8w5bHQORw" label="id_hopital" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

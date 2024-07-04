@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_R9jjATleEe-Vh8w5bHQORw" name="ville.csv" dataPackage="_R9jjAjleEe-Vh8w5bHQORw" Server="Localhost 127.0.0.1" FilePath="/Users/almassati/Desktop/avave/ville.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_R9jjAjleEe-Vh8w5bHQORw" name="default" dataManager="_R9jjATleEe-Vh8w5bHQORw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_R9jjAzleEe-Vh8w5bHQORw" id="_Lyr8MDleEe-Vh8w5bHQORw" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_R9jjBDleEe-Vh8w5bHQORw" label="id_ville" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_R9jjBTleEe-Vh8w5bHQORw" label="ville" length="19" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

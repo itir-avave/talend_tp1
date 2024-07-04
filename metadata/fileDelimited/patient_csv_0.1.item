@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_NReq4DldEe-Vh8w5bHQORw" name="patient.csv" dataPackage="_NReq4TldEe-Vh8w5bHQORw" Server="Localhost 127.0.0.1" FilePath="/Users/almassati/Desktop/avave/patient.csv" Encoding="US-ASCII" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_NReq4TldEe-Vh8w5bHQORw" name="default" dataManager="_NReq4DldEe-Vh8w5bHQORw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_NReq4jldEe-Vh8w5bHQORw" id="_-NegMDlcEe-Vh8w5bHQORw" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_NReq4zldEe-Vh8w5bHQORw" label="id_patient" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_NReq5DldEe-Vh8w5bHQORw" label="date_naissance" length="-1" talendType="id_Date" pattern="&quot;yyyyMMdd&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_NReq5TldEe-Vh8w5bHQORw" label="sexe" length="1" talendType="id_Character" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_NReq5jldEe-Vh8w5bHQORw" label="id_ville" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
